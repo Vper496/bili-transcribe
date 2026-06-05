@@ -2,11 +2,11 @@
 
 [English](README_EN.md)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/issues)
-[![License](https://img.shields.io/github/license/Vper496/bili-transcribe?style=flat)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/commits/master)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/Vper496/bili-transcribe?style=social)](https://github.com/Vper496/bili-transcribe/stargazers)
+[![License](https://img.shields.io/github/license/Vper496/bili-transcribe?style=flat-square&color=blue)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Vper496/bili-transcribe?style=flat-square)](https://github.com/Vper496/bili-transcribe/commits/master)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Issues](https://img.shields.io/github/issues/Vper496/bili-transcribe?style=flat-square)](https://github.com/Vper496/bili-transcribe/issues)
 
 下载 B站视频音频，通过 faster-whisper 转录为 markdown。BV号进去，markdown 出来。
 
