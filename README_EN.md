@@ -87,6 +87,10 @@ Video(bvid) → B站 API → DASH audio URL (sorted by bandwidth ASC)
 - WAV files are cleaned up after transcription
 - The `small` Whisper model is downloaded once and cached locally
 
+## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date)](https://star-history.com/#Vper496/bili-transcribe&Date)
+
 ## License
 
 MIT

@@ -101,6 +101,10 @@ Video(bvid) → B站 API → DASH 音频 URL（按码率升序排列）
 - WAV 文件转录后自动删除
 - small 模型首次下载后本地缓存，后续直接使用
 
+## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date)](https://star-history.com/#Vper496/bili-transcribe&Date)
+
 ## 许可证
 
 MIT
