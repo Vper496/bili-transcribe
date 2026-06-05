@@ -2,6 +2,12 @@
 
 [中文](README.md)
 
+[![GitHub Stars](https://img.shields.io/github/stars/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/issues)
+[![License](https://img.shields.io/github/license/Vper496/bili-transcribe?style=flat)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Vper496/bili-transcribe?style=flat)](https://github.com/Vper496/bili-transcribe/commits/master)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat)](https://www.python.org/)
+
 Download Bilibili video audio and transcribe to markdown via faster-whisper. BV号 in, markdown out.
 
 ## Features
