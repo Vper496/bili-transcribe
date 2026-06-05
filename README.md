@@ -103,7 +103,7 @@ Video(bvid) → B站 API → DASH 音频 URL（按码率升序排列）
 
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date)](https://star-history.com/#Vper496/bili-transcribe&Date)
+[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date&theme=dark)](https://star-history.com/#Vper496/bili-transcribe&Date)
 
 ## 许可证
 

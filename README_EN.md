@@ -89,7 +89,7 @@ Video(bvid) → B站 API → DASH audio URL (sorted by bandwidth ASC)
 
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date)](https://star-history.com/#Vper496/bili-transcribe&Date)
+[![Star History](https://api.star-history.com/svg?repos=Vper496/bili-transcribe&type=Date&theme=dark)](https://star-history.com/#Vper496/bili-transcribe&Date)
 
 ## License
 
