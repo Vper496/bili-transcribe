@@ -1,0 +1,4 @@
+bilibili-api-python
+faster-whisper
+imageio-ffmpeg
+requests
